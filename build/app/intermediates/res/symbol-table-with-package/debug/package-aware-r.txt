@@ -1,5 +1,0 @@
-com.tedconsulting.fluttertimerdemo
-drawable launch_background
-mipmap ic_launcher
-mipmap timer
-style LaunchTheme
