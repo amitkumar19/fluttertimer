@@ -1,0 +1,4 @@
+#Fri Feb 08 14:40:44 IST 2019
+base.0=/home/ted-android/IdeaProjects/flutter_timer_demo/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
